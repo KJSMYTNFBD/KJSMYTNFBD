@@ -1,67 +1,74 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&text=KJSMYTNFBD&fontColor=00FFE1&fontSize=48&desc=Backend%20%7C%20System%20Integration%20%7C%20Private%20Projects&descAlignY=65)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7F00FF,50:3A1C71,100:00D4FF&height=230&text=KJSMYTNFBD&fontSize=76&fontColor=FFFFFF&desc=Backend%20%C2%B7%20System%20Integration%20%C2%B7%20Automation&descSize=20&rotate=-6&fontAlignY=40&descAlignY=62&textBg=false" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00FFE1&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Integration+Engineer;Private+Projects+by+Design" />
+  <img src="https://img.shields.io/badge/based_in-Taiwan-7F00FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/private--first-development-3A1C71?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/KJSMYTNFBD?style=flat-square&label=followers&color=00B4D8&logo=github&logoColor=white" />
 </p>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## 🧑‍🚀 About Me
-> Most of my work lives in **private repositories** due to company policy.
+### ⚙️ Focus
+Backend & system integration for **internal systems**, **data processing** and **automation** — built for reliability, maintainability and smooth deployment.
 
-- Backend & system integration developer
-- Specialized in **internal systems**, **data processing**, and **automation**
-- Focus on reliability, maintainability, and deployment
+</td>
+    <td width="50%" valign="top">
 
----
-
-## 🧩 What I Build
+### 🧩 What I build
 - Internal management platforms
 - Data reconciliation & reporting systems
 - REST API services
-- Automation pipelines for daily/monthly operations
+- Daily / monthly automation pipelines
 
----
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-## 🛠 Tech Stack
-**Languages**
-- Python
-- JavaScript
+### 🔒 Private-first
+Most of my work lives in **private repositories** due to company policy. The source is private — the architecture and responsibility are real. Demo repositories are published when appropriate.
 
-**Backend**
-- Flask
-- Node.js
+</td>
+    <td width="50%" valign="top">
 
-**Database & Cache**
-- PostgreSQL
-- Redis
+### 🧪 Currently exploring
+**AI agent tooling** — plugins and desktop widgets for Hermes Agent:
+- a pixel-art office that visualizes live agent activity
+- a plan-usage, now-playing & system monitor pane
+- an ASCII ocean background
 
-**DevOps**
-- Docker
-- Linux
-- GitHub Actions
+</td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-00FFE1?style=for-the-badge&logo=python&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Flask-0F2027?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Docker-203A43?style=for-the-badge&logo=docker" />
-</p>
+<h3 align="center">🛠 Stack</h3>
 
----
+<table align="center">
+  <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,js&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=flask,nodejs&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" /></td></tr>
+  <tr><td align="right"><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,linux,githubactions&theme=dark" /></td></tr>
+</table>
 
-## 🧬 Contribution Flow
-> Visualized contribution activity (including private work patterns)
-
-![Snake animation](https://raw.githubusercontent.com/KJSMYTNFBD/KJSMYTNFBD/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📡 Notes
-- Source code is private, but architecture & responsibility are real
-- Demo repositories may be published when appropriate
-
----
+<h3 align="center">📈 Contribution stats</h3>
 
 <p align="center">
-  <sub>⚠️ Private-first development. Public when safe.</sub>
+  <img src="https://streak-stats.demolab.com?user=KJSMYTNFBD&theme=dark&background=0D111700&ring=C084FC&fire=00D4FF&currStreakLabel=C084FC&sideLabels=8B949E&dates=8B949E&border=30363D" />
+</p>
+
+<h3 align="center">🧬 Contribution flow</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KJSMYTNFBD/KJSMYTNFBD/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/KJSMYTNFBD/KJSMYTNFBD/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7F00FF,50:3A1C71,100:00D4FF&height=90&section=footer&reversal=true&rotate=6" width="100%" />
+
+<p align="center">
+  <sub>Private-first development. Public when safe. · This page was edited with AI assistance (claude-opus-5-5).</sub>
 </p>
